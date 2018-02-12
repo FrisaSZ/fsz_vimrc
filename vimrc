@@ -68,6 +68,8 @@ set tabstop=4
 set shiftwidth=4
 " 让 vim 把连续数量的空格视为一个制表符
 set softtabstop=4
+" 设置编码为utf8
+set encoding=utf8
 
 
 " nerdtree
