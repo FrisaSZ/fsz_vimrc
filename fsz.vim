@@ -10,7 +10,7 @@ autocmd BufWritePost $MYVIMRC source $MYVIMRC
 
 " 插件列表声明
 call plug#begin('~/.vim/plugged')
-Plug 'Valloric/YouCompleteMe'
+" Plug 'Valloric/YouCompleteMe'
 Plug 'scrooloose/nerdtree'
 Plug 'itchyny/lightline.vim'
 Plug 'joshdick/onedark.vim'
